@@ -20,7 +20,7 @@ This project aims to explore the FIFA 21 Players dataset using Excel, understand
 
 ### Changelog
 
-Refer to the [Changelog](CHANGELOG.md) for a detailed history of data cleaning steps and changes made using Excel. The changelog provides transparency into the data cleaning process.
+Refer to the [Changelog](Changelog.md) for a detailed history of data cleaning steps and changes made using Excel. The changelog provides transparency into the data cleaning process.
 
 ## Analysis Focus Points
 
